@@ -1,2 +1,7 @@
 # docker-tuts
-Docker tutorial with the help of a NodeJS and React app.
+With the help of NodeJS and React apps, learn how to use Docker.
+
+Prerequisites:
+-Docker 
+https://www.docker.com/products/docker-desktop/
+
